@@ -9,6 +9,8 @@ redirect_from:
 
 About Me
 =====
+I received the B.S. degree from the Department of Computer Science and Technology, Anhui University of Science and Technology (AUST) in 2017. I am currently pursuing the Ph.D. degree with the Department of Computer Science and Technology, University of Science and Technology of China (USTC). My research interests include ambient backscatter communications (Amb-BackComs) and wireless sensor networks (WSNs).
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
